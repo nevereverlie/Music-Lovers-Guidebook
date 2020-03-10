@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<ArrayOfSong xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Song>
+    <Artist>Metallica</Artist>
+    <Album>Metallica</Album>
+    <Name>The Unforgiven</Name>
+    <Year>1991</Year>
+    <Genre>Rock, Metal</Genre>
+  </Song>
+  <Song>
+    <Artist>Metallica</Artist>
+    <Album>Metallica</Album>
+    <Name>Nothing Else Matter's</Name>
+    <Year>1991</Year>
+    <Genre>Rock, Metal</Genre>
+  </Song>
+  <Song>
+    <Artist>The Beatles</Artist>
+    <Album>Let It Be</Album>
+    <Name>Let It Be</Name>
+    <Year>1970</Year>
+    <Genre>Rock, Classic Rock</Genre>
+  </Song>
+  <Song>
+    <Artist>Alice Cooper</Artist>
+    <Album>A Fistful of Alice</Album>
+    <Name>Poison</Name>
+    <Year>1997</Year>
+    <Genre>Rock</Genre>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Violator</Album>
+    <Name>Policy Of Truth</Name>
+    <Year>1990</Year>
+    <Genre>Electronic, Dancing</Genre>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Violator</Album>
+    <Name>Enjoy The Silence</Name>
+    <Year>1990</Year>
+    <Genre>Electronic, Dancing</Genre>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Violator</Album>
+    <Name>Personal Jesus</Name>
+    <Year>1990</Year>
+    <Genre>Electronic, Dancing</Genre>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Music for the Masses</Album>
+    <Name>Strangelove</Name>
+    <Year>1987</Year>
+    <Genre>Rock, E-Pop</Genre>
+  </Song>
+  <Song>
+    <Artist>Pink Floyd</Artist>
+    <Album>The Dark Side of the Moon</Album>
+    <Name>Time</Name>
+    <Year>1973</Year>
+    <Genre>Rock, Classic rock, Psychodelic rock</Genre>
+  </Song>
+  <Song>
+    <Artist>Pink Floyd</Artist>
+    <Album>The Division Bell</Album>
+    <Name>High Hopes</Name>
+    <Year>1994</Year>
+    <Genre>Rock, Progressive rock</Genre>
+  </Song>
+</ArrayOfSong>

@@ -1,0 +1,52 @@
+Исполнитель :: Альбом :: Название песни :: Год выпуска :: Жанр
+
+Metallica :: Metallica :: The Unforgiven :: 1991 :: Rock, Metal
+
+Metallica :: Metallica :: Nothing Else Matter's :: 1991 :: Rock, Metal
+
+Depeche Mode :: Music for the Masses :: Strangelove :: 1987 :: Rock, E-Pop
+
+Pink Floyd :: The Dark Side of the Moon :: Time :: 1973 :: Rock, Classic rock, Psychodelic rock
+
+Pink Floyd :: The Division Bell :: High Hopes :: 1994 :: Rock, Progressive Rock
+
+Oasis :: (What'sTheStory) Morning Glory :: Wonderwall :: 1995 :: Alt-Rock, Indie
+
+Yngwie Malmsteen :: Tribute To ABBA 'Heavy Metal Tribute' :: Gimme! Gimme! Gimme! :: 1986 :: Rock, Pop, Cover
+
+Gamma Ray :: Power Plant :: It's A Sin :: 1999 :: Rock, Cover
+
+Metal Scent :: Metal Scent :: One Way Ticket To The Blues :: 2007 :: Rock, Metal, Cover
+
+Bob Dylan :: Before The Flood :: Knockin' On Heaven's Door :: 1974 :: Rock
+
+Foreigner :: Agent Provocateur :: I Want To Know What Love Is :: 1984 :: Rock
+
+Seether :: Finding Beauty In Negative Spaces :: Careless Whisper :: 2007 :: Rock, Alt Metal
+
+Bon Jovi :: Slippery When Wet :: You Give Love A Bad Name :: 1986 :: Rock, Metal
+
+Scorpions :: Crazy World :: Send Me An Angel :: 1990 :: Rock, Classic rock
+
+Muse :: Drones :: The Handler :: 2015 :: Rock, Progressive metal, Alt music, Indie
+
+Muse :: The Resistance :: Uprising :: 2009 :: Rock, Progressive metal, Alt music, Indie
+
+Muse :: Black Holes and Revelations :: Starlight :: 2006 :: Rock, Progressive metal, Alt music, Indie
+
+Muse :: Absolution :: Hysteria :: 2003 :: Rock, Progressive metal, Alt music, Indie
+
+Metallica :: Metallica :: Enter Sandman :: 1991 :: Rock, Metal
+
+Rammstein :: Mutter :: Feuer Frei :: 2001 :: Rock, Industrial metal, Metal
+
+Rammstein :: Mutter :: Mein Herz Brennt :: 2001 :: Rock, Industrial metal, Metal
+
+Rammstein :: Mutter :: Links 2 3 4 :: 2001 :: Rock
+
+Rammstein :: Mutter :: Sonne :: 2001 :: Rock, Industrial metal, Metal
+
+Rammstein :: Rammstein :: Deutschland :: 2019 :: Rock, Industrial metal, Metal
+
+Metallica :: Metallica :: Sad But True :: 1991 :: Rock, Metal
+

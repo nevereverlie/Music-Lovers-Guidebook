@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<ArrayOfSong xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Song>
+    <Artist>Metallica</Artist>
+    <Album>Metallica</Album>
+    <Name>The Unforgiven</Name>
+  </Song>
+  <Song>
+    <Artist>Metallica</Artist>
+    <Album>Metallica</Album>
+    <Name>Nothing Else Matter's</Name>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Music for the Masses</Album>
+    <Name>Strangelove</Name>
+  </Song>
+  <Song>
+    <Artist>Pink Floyd</Artist>
+    <Album>The Dark Side of the Moon</Album>
+    <Name>Time</Name>
+  </Song>
+  <Song>
+    <Artist>Pink Floyd</Artist>
+    <Album>The Division Bell</Album>
+    <Name>High Hopes</Name>
+  </Song>
+  <Song>
+    <Artist>Oasis</Artist>
+    <Album>(What'sTheStory) Morning Glory</Album>
+    <Name>Wonderwall</Name>
+  </Song>
+  <Song>
+    <Artist>Yngwie Malmsteen</Artist>
+    <Album>Tribute To ABBA 'Heavy Metal Tribute'</Album>
+    <Name>Gimme! Gimme! Gimme!</Name>
+  </Song>
+  <Song>
+    <Artist>Gamma Ray</Artist>
+    <Album>Power Plant</Album>
+    <Name>It's A Sin</Name>
+  </Song>
+  <Song>
+    <Artist>Metal Scent</Artist>
+    <Album>Metal Scent</Album>
+    <Name>One Way Ticket To The Blues</Name>
+  </Song>
+  <Song>
+    <Artist>Bob Dylan</Artist>
+    <Album>Before The Flood</Album>
+    <Name>Knockin' On Heaven's Door</Name>
+  </Song>
+  <Song>
+    <Artist>Foreigner</Artist>
+    <Album>Agent Provocateur</Album>
+    <Name>I Want To Know What Love Is</Name>
+  </Song>
+  <Song>
+    <Artist>Seether</Artist>
+    <Album>Finding Beauty In Negative Spaces</Album>
+    <Name>Careless Whisper</Name>
+  </Song>
+  <Song>
+    <Artist>Bon Jovi</Artist>
+    <Album>Slippery When Wet</Album>
+    <Name>You Give Love A Bad Name</Name>
+  </Song>
+</ArrayOfSong>

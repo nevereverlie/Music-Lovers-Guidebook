@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSong xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Song>
+    <Artist>Metallica</Artist>
+    <Album>Metallica</Album>
+    <Name>The Unforgiven</Name>
+  </Song>
+  <Song>
+    <Artist>Metallica</Artist>
+    <Album>Metallica</Album>
+    <Name>Nothing Else Matter's</Name>
+  </Song>
+  <Song>
+    <Artist>The Beatles</Artist>
+    <Album>Let It Be</Album>
+    <Name>Let It Be</Name>
+  </Song>
+  <Song>
+    <Artist>Alice Cooper</Artist>
+    <Album>A Fistful of Alice</Album>
+    <Name>Poison</Name>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Violator</Album>
+    <Name>Policy Of Truth</Name>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Violator</Album>
+    <Name>Enjoy The Silence</Name>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Violator</Album>
+    <Name>Personal Jesus</Name>
+  </Song>
+  <Song>
+    <Artist>Depeche Mode</Artist>
+    <Album>Music for the Masses</Album>
+    <Name>Strangelove</Name>
+  </Song>
+  <Song>
+    <Artist>Pink Floyd</Artist>
+    <Album>The Dark Side of the Moon</Album>
+    <Name>Time</Name>
+  </Song>
+  <Song>
+    <Artist>Pink Floyd</Artist>
+    <Album>The Division Bell</Album>
+    <Name>High Hopes</Name>
+  </Song>
+</ArrayOfSong>

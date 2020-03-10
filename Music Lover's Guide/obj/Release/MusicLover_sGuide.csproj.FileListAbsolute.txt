@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\bin\Release\Music lover's guide.exe.config
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\bin\Release\Music lover's guide.exe
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\bin\Release\Music lover's guide.pdb
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\MusicLover'sGuide.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\MusicLoversGuide.MainForm.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\MusicLoversGuide.AddSongForm.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\MusicLoversGuide.FormatForm.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\MusicLoversGuide.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\MusicLover'sGuide.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\MusicLover'sGuide.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\Music lover's guide.exe
+C:\Users\User\Desktop\Курсовая 2 семестр\WindowsFormsApp1\obj\Release\Music lover's guide.pdb
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\bin\Release\Music lover's guide.exe.config
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\bin\Release\Music lover's guide.exe
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\bin\Release\Music lover's guide.pdb
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\MusicLover'sGuide.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\MusicLoversGuide.MainForm.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\MusicLoversGuide.AddSongForm.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\MusicLoversGuide.FormatForm.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\MusicLoversGuide.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\MusicLover'sGuide.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\MusicLover'sGuide.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\Music lover's guide.exe
+C:\Users\User\Desktop\Курсовая 2 семестр\Music Lover's Guide\obj\Release\Music lover's guide.pdb
